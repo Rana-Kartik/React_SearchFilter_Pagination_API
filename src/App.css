@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+table{
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+  margin-top: 100px;
+  table-layout: auto;
+}
+
+.p input{
+  padding: 10px;
+}
